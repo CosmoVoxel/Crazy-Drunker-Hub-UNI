@@ -27,9 +27,9 @@
 
 ### Building and Running
 
-1.  **Clone the repository:**
+1.  **Clone the repository**
 2.  **Open the project in Android Studio:**
     *   Launch Android Studio.
     *   Go to `File > Open...` and select the root directory of the cloned project.
-3.  **Run the application:**
+3.  **Run the application**
 
