@@ -10,6 +10,14 @@
 *   **Android Studio:** Integrated Development Environment.
 
 
+## 🎬 Showtime
+### Tablet Layout 
+[spedup_Cocktail-Hub-Tablet.webm](https://github.com/user-attachments/assets/a565f5bd-b62b-4f5b-94f9-bd111472b4d3)
+
+### Phone Layout (with Dark Theme)
+[spedup_Cocktail-Hub-Phone.webm](https://github.com/user-attachments/assets/057d1ec5-f21b-4ef8-9cb9-8a979a5e6147)
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
