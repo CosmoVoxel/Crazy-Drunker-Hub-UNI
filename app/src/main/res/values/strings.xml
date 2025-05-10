@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrazyDrunker</string>
+    <string name="title_activity_juice_info">JuiceInfoActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+</resources>
