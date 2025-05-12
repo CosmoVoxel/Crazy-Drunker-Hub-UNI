@@ -1,5 +1,5 @@
 # Crazy Drunker Hub
-**This is a simple Android application built with Jetpack Compose that displays a list of *'juice'***
+**This is a simple Android application built with Jetpack Compose that displays a list of *cocktails***
 
 ## 💻 Tech Stack
 *   **Kotlin:** Primary programming language.
