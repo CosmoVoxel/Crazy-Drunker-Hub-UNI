@@ -2,12 +2,11 @@
 **This is a simple Android application built with Jetpack Compose that displays a list of *cocktails***
 
 ## 💻 Tech Stack
-*   **Kotlin:** Primary programming language.
-*   **Jetpack Compose:** Modern UI toolkit for Android.
-*   **Jetpack Navigation Compose:** Declarative navigation framework.
-*   **Jetpack Material 3:** Implementation of Material Design 3.
-*   **Jetpack Window Size Class:** Helper for building adaptive layouts.
-*   **Android Studio:** Integrated Development Environment.
+*   **Kotlin:** 
+*   **Jetpack Compose:**
+*   **Jetpack Navigation Compose:**
+*   **Material Design 3**
+*   **Android Studio:**
 
 
 ## 🎬 Showtime
