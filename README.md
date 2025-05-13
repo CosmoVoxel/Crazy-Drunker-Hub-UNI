@@ -2,9 +2,9 @@
 **This is a simple Android application built with Jetpack Compose that displays a list of *cocktails***
 
 ## 💻 Tech Stack
-*   **Kotlin:** 
-*   **Jetpack Compose:**
-*   **Jetpack Navigation Compose:**
+*   **Kotlin** 
+*   **Jetpack Compose**
+*   **Jetpack Navigation Compose**
 *   **Material Design 3**
 *   **Android Studio**
 
