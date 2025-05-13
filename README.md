@@ -6,7 +6,7 @@
 *   **Jetpack Compose:**
 *   **Jetpack Navigation Compose:**
 *   **Material Design 3**
-*   **Android Studio:**
+*   **Android Studio**
 
 
 ## 🎬 Showtime
